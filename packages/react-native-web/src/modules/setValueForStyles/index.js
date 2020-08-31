@@ -10,7 +10,7 @@
  * @noflow
  */
 
-import dangerousStyleValue from '../dangerousStyleValue';
+import dangerousStyleValue from './dangerousStyleValue';
 import hyphenateStyleName from 'hyphenate-style-name';
 
 /**
